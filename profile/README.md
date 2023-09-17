@@ -14,4 +14,4 @@
 
 ---
 
-### 📢 [Changelog](./CHANGELOG.md)
+### 📢 [Changelog](./profile/CHANGELOG.md)
