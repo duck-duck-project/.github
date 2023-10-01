@@ -11,7 +11,3 @@
 ---
 
 ### 🧪 You can use bot <u><a href="https://t.me/duck_duck_robot">here</a></u>.
-
----
-
-### 📢 [Changelog](./profile/CHANGELOG.md)
